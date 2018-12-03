@@ -5,6 +5,12 @@ public class GitTest{
 
 	public GitTest(){
 		var="This is my GitHubTest";
+	}
 
-}
+
+	public String toString(){
+		return "This is my GithubTest";
+	}
+
+
 }
