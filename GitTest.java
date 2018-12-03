@@ -14,5 +14,9 @@ public class GitTest{
 		return "This is my GithubTest";
 	}
 
+	public void setVar(String newVar){
+		var=newVar;
+	}
+
 
 }
